@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Curso Android 2</string>
+    <string name="guide1">Introduce el primer numero</string>
+    <string name="guide2">introuzca el segundo numero</string>
+</resources>
